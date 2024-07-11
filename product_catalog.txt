@@ -1,0 +1,21 @@
+Our Products:
+
+Guitar: cost:500
+Flute: cost:1000
+Piano :cost:800
+Organic:cost:900
+
+Our second hand products:
+
+Guitar: cost:500 ,level yad:2,need fix:true
+Flute: cost:200, level yad:2,need fix:true
+Piano :cost:100 ,level yad:3,need fix:false
+Organic:cost:50 ,level yad:4,need fix:trueName :bnuj;b,Cost: 5,levelYad:50, needFix:True
+Name :ayyyelllettt,Cost: 20,levelYad:50, needFix:True
+Name :yyyyy,Cost: 50,levelYad:50, needFix:True
+Name :i,Cost: 1,levelYad:1, needFix:True
+Name :y,Cost: 1,levelYad:1, needFix:True
+Name :gitura,Cost: 150,levelYad:2, needFix:False
+Name :ghghgg,Cost: 100,levelYad:2, needFix:True
+Name :ששש,Cost: 10,levelYad:2, needFix:False
+Name :aaa,Cost: 10,levelYad:2, needFix:True
