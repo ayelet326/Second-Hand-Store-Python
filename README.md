@@ -52,7 +52,10 @@ Upon running the application, you will be presented with a menu offering the fol
 #### Example
 Here is a brief example of how the menu looks and operates:
 
--[image] 
+ ##### code :
+  ![code](./Screenshots/code.png)
+  ##### terminal :
+ ![code](./Screenshots/terminal1.png)
 ### Data Persistence
 All products are stored in a file (products.txt), ensuring that inventory data is maintained between different runs of the application. The file is read at startup and written to upon any inventory changes.
 
